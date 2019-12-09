@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Maintenanace</string>
+    <string name="activity_login_label_email">Email</string>
+    <string name="activity_login_label_password">Password</string>
+    <string name="activity_login_label_SignIn">Sign In</string>
+    <string name="activity_login_label_NotYetregistered">Not Yet registered</string>
+    <string name="activity_login_label_Signup">Signup</string>
+    <string name="activity_registration_ConfirmPassword">Confirm Password</string>
+    <string name="activity_registration_Register">REGISTER</string>
+    <string name="activity_registration_AlreadyRegistered">Already Registered</string>
+</resources>
