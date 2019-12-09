@@ -14,8 +14,8 @@ public class LoginActivity extends AppCompatActivity {
         setContentView(R.layout.activity_login);
 
 
-        Intent intent = new Intent(getApplicationContext(),NewServiceActivity.class);
-        startActivity(intent);
+       // Intent intent = new Intent(getApplicationContext(),NewServiceActivity.class);
+        //startActivity(intent);
     }
 
 
